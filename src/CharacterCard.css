@@ -1,0 +1,25 @@
+.card{
+    text-align: center;
+    padding: 30px;
+    font-family: sans-serif;
+    color: #fff;
+}
+.card img{
+    border-radius: 10px;
+}
+button{
+    height: 40px;
+    width: 100px;
+    border: none;
+    margin-top: 30px;
+    background-color: cadetblue;
+    color: #fff;
+    border-radius: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-right: 30px;
+    cursor: pointer;
+}
+.card img, h3, p{
+padding-bottom: 10px;
+}
